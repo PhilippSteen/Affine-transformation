@@ -1,6 +1,14 @@
 # Affine-transformation
 Find the affine transformation between two channels in a localization microscopy image
 
+Associated publication: 
+
+Please cite 
+
+Steen, P.R., Unterauer, E.M., Masullo, L.A. *et al.* The DNA-PAINT palette: a comprehensive performance analysis of fluorescent dyes. *Nat Methods* (2024). https://doi.org/10.1038/s41592-024-02374-8 
+
+if you use this software. 
+
 Use: 
 
 1. Collect as many FOVs with TetraSpeck as you want, acquire in both colors (500 frames at 25ms is sufficient)
